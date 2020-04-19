@@ -1,2 +1,2 @@
-# DataStudy
-算法、数据结构学习记录
+#PythonData
+数据分析学习记录
